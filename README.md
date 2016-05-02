@@ -16,3 +16,7 @@ README.md
 CodeBook.md: indicates all the variables and summaries calculated, along with units, and any other relevant information.
 
 run_analysis.R: R script
+
+Here are the data for the project:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
