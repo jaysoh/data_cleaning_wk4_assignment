@@ -2,8 +2,8 @@
 
 Files in this repo
 
-README.md -- you are reading it right now
+README.md
 
-CodeBook.md -- codebook describing variables, the data and transformations
+CodeBook.md: indicates all the variables and summaries calculated, along with units, and any other relevant information.
 
-run_analysis.R -- actual R code
+run_analysis.R: R script
